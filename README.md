@@ -14,7 +14,7 @@ I used visual studio code to create this code in a script.js file, index.html fi
 
 Link to the deployed application: 
 
-*/link here*/
+https://stevea28.github.io/Coding-Quiz/
 
 ## Credits
 
