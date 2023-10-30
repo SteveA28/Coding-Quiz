@@ -1,5 +1,7 @@
 # Coding-Quiz
 
+<img src="codequiz.png">
+
 ## Description
 
 In this challenge, I created a timed quiz with 5 questions and feedback to the questions. At the end I also added a highscores and the results for the person to see.
